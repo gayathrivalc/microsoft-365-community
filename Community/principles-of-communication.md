@@ -93,6 +93,11 @@ It is likely that external comms needs to be built into the strategy alongside a
 Explained!](https://www.yourarticlelibrary.com/management/communication/7-principles-of-communication-explained)
 - [The Seven C’s Of Effective
 Communication](https://www.proofhub.com/articles/effective-communication#The_Seven_C8217s_Of_Effective_Communication)
+- [Tackling Project Hurdles with Clear Communication](https://www.workstatus.io/blog/workforce-management/tackling-project-hurdles-with-clear-communication/)
+
+
+
+
 - Duncan Thorne, [Thorne PR Ltd](https://www.thornepr.co.uk)
 
 ---
